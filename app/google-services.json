@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631139059197",
+    "project_id": "supperchat-612",
+    "storage_bucket": "supperchat-612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631139059197:android:dba45335d3719824574594",
+        "android_client_info": {
+          "package_name": "com.example.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631139059197-l5dprvmjgpku4ob6i9gjsvbu204u34eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mychatapp",
+            "certificate_hash": "390a4088eddd51058e99a30704c35237e5cc5ee1"
+          }
+        },
+        {
+          "client_id": "631139059197-57aft3kcqe8dfuatp5njibf24oa7bkgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyd14cZBqI9kLQlv3fLVLaxmPUejKhbNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631139059197-57aft3kcqe8dfuatp5njibf24oa7bkgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
